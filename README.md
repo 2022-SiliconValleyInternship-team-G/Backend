@@ -1,3 +1,3 @@
 # ✨CarryCARI
 <br/>
-CarryCARI BE-repository
+CarryCARI BE & AI -repository
