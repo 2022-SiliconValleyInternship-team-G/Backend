@@ -1,3 +1,5 @@
-# ✨CarryCARI
+# ✨CarryCARI BE & AI repository
 <br/>
-CarryCARI BE & AI -repository
+
+[CarryCARI](https://github.com/2022-SiliconValleyInternship-team-G)
+
